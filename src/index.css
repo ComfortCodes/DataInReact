@@ -1,6 +1,29 @@
 body {
   margin: 0;
 padding: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#root h1{
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+img{
+  height: 50px;
+  width: 50px;
+  border: 1px solid navy;
+}
+.UserBlock{
+display: inline-block;
+border: 1px solid navy;
+border-radius: 2px;
+padding: 10px;
+margin: 15px;
+width: 255px;
+}
+.UserDetails{
+  display: inline-block;
+  margin-left: 15px;
 }
 
 
